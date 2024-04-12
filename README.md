@@ -22,8 +22,8 @@
 ------
 ## 🎲 My projects
 
-[![VsCodeSnippets](https://github-readme-stats.vercel.app/api/pin/?username=WatcherOne&repo=VsCodeSnippets&theme=swift)](https://github.com/WatcherOne/VsCodeSnippets)
-[![VsCodeExtensions](https://github-readme-stats.vercel.app/api/pin/?username=WatcherOne&repo=VsCodeExtensions&theme=swift)](https://github.com/WatcherOne/VsCodeExtensions)
+[![Extensions-VsCodeSnippets](https://github-readme-stats.vercel.app/api/pin/?username=WatcherOne&repo=Extensions-VsCodeSnippets&theme=swift)](https://github.com/WatcherOne/Extensions-VsCodeSnippets)
+[![Extensions-VsCode](https://github-readme-stats.vercel.app/api/pin/?username=WatcherOne&repo=Extensions-VsCode&theme=swift)](https://github.com/WatcherOne/Extensions-VsCode)
 [![Blob](https://github-readme-stats.vercel.app/api/pin/?username=WatcherOne&repo=Blob&theme=swift)](https://github.com/WatcherOne/Blob)
 [![NoteBook](https://github-readme-stats.vercel.app/api/pin/?username=WatcherOne&repo=NoteBook&theme=swift)](https://github.com/WatcherOne/NoteBook)
 
